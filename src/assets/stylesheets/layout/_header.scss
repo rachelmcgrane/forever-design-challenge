@@ -1,0 +1,17 @@
+.l-header {
+  padding: 2em 0;
+
+  @media screen and (min-width: $screen-md-custom) {
+    padding: 3em 0;
+  }
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+
+  .icon-logo {
+    width: 130px;
+    height: auto;
+  }
+}

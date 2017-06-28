@@ -1,0 +1,17 @@
+// Colors
+$background-color: #fff;
+$content-background-color: #f5f5f5;
+$accent-color: #7AC143;
+
+// The slight tint after selecting an image
+$image-scrim-color: rgba(152,210,28,0.15);
+
+// Box shadows
+$shadow-low: 0 2px 10px rgba(153,153,153,0.51);
+$shadow-high: 0 2px 15px rgba(153,153,153,0.31);
+
+// Because Bootstrap doesn't have great small-screen breakpoints
+$screen-xs-custom: 350px;
+$screen-sm-custom: 400px;
+$screen-md-custom: 500px;
+$screen-lg-custom: 700px;
